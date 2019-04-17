@@ -1,0 +1,14 @@
+.login-bg {
+    background-color: #f3f3f4
+    /* background: url("../../assets/img/bg-login.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
+
+.white-bg2 {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+}
