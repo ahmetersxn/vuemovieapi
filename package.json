@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "save": "^2.3.3",
     "toastr": "^2.1.4",
     "vue": "^2.6.6",
